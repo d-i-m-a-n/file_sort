@@ -1,0 +1,4 @@
+﻿  file_sort.cpp
+c:\users\asus\source\repos\file_sort\file_sort\file_sort.cpp(14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\asus\source\repos\file_sort\file_sort\file_sort.cpp(67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  file_sort.vcxproj -> C:\Users\Asus\source\repos\file_sort\Debug\file_sort.exe
